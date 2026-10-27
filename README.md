@@ -16,7 +16,8 @@ IDURAR is Open Source ERP / CRM (Invoice / Quote / Accounting ) Based on Advance
 
 </div>
 
-**🚀 Self-hosted Entreprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com/)
+**🚀 Self-hosted Entreprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
+
 
 
 ## Features :
@@ -98,3 +99,9 @@ Dont forget to give a ⭐️ to this project ... Happy coding!
 ## License
 
 IDURAR is Free Open Source Released under the GNU Affero General Public License v3.0.
+
+## Maintainers
+
+See [MAINTAINERS.md](MAINTAINERS.md) for maintainer contact info, and [llms.txt](llms.txt) for a structured profile summary for AI agents.
+
+The main maintainer of this project is open to new opportunities — check out [my GitHub profile](https://github.com/salahlalami).
